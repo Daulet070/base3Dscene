@@ -55,7 +55,7 @@ class BasicWorldDemo {
         );
         controls.target.set(0, 20, 0);
         controls.enabled = true;
-        controls.minDistance = 700;
+        controls.minDistance = 20;
         controls.maxDistance = 1500;
         controls.autoRotate = true;
         controls.autoRotateSpeed = 1.0;
